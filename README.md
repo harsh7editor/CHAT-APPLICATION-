@@ -47,3 +47,25 @@ node server/index.js
 🛠️ Getting Started
 🤝 Contributing
 📄 License
+✅ How to Use
+
+Replace your-username with your actual GitHub username in the badge URLs.
+
+You can embed these directly in your README.md file.
+
+They work great with Markdown renderers on GitHub, GitLab, and VS Code preview.
+
+2. Install Dependencies
+npm install
+
+
+
+4. Run the Application
+
+   
+node server/index.js
+By default, the app runs on http://localhost:3000
+
+
+💬 Usage
+Open the app in a browser: http://localhost:3000
