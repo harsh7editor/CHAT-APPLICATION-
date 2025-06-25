@@ -4,6 +4,10 @@
 🔌 Socket.io for seamless real-time communication
 🧼 Clean and modular backend structure using Express.js
 
+
+![image](https://github.com/user-attachments/assets/52116669-8e57-4661-afcd-956c3195c22f)
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
