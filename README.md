@@ -16,11 +16,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ├── public/
+
 │   ├── index.html          # Frontend HTML page
+
 │   └── script.js           # Handles client-side socket logic
+
+
 ├── server/
+
 │   └── index.js            # Express server with Socket.io integration
+
 ├── package.json
+
 └── README.md
 
 
